@@ -32,7 +32,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-Tribute Page é o 1º desafio do bootcamp "Responsive Web Design", promovido por https://www.freecodecamp.org/, consiste em Pagina de homenagem responsiva, Mostrando toda trajetória do grande físico Albert Einstein.
+Tribute Page é o 1º desafio do bootcamp "Responsive Web Design", promovido por https://www.freecodecamp.org/. Consiste em Pagina de homenagem responsiva, Mostrando toda trajetória do grande físico Albert Einstein.
 
 ## 🔖 Layout
 
